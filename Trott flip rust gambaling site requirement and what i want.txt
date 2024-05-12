@@ -1,0 +1,30 @@
+can u make me a rust gambaling site, site name "TROTT FLIP"
+
+game modes - cases, case battles, upgrader, coinflip,
+
+deposits - rust skins, crypto(eth,ltc,btc)
+
+withdraws - rust skins
+
+afiliate codes set up($0.50 if you use someones code, and for every affiliate you have u recieve $0.10)
+
+must wager 100% of deposit before withdraw
+
+when depositing skins they auto get converted to credits and listed on withdraw page
+
+when skins are listed on withdraw page there withdraw credit price will be 10% higher than what the user recieved for the deposit
+
+there will be bots for case battles and coinflip
+
+bots will have a 10% higher change of winning on case battles and on coinflip but on coin flip don't shiow the user that its 55/45 make it still show 50/50
+
+add a global chat
+
+add a level system with free case for every level case odds like 99% for $0.05 and 1% for $1, and odds and value to win will get better as ur level increases.
+
+and add a way to tip people in chat and the tipped user has to wager 100% of tip to withdraw
+
+and stats tab to see total wagered level profit withdrawn transactions and that
+
+and make admin able to get as much balance as i want so i can tip people that i sponsor.
+
